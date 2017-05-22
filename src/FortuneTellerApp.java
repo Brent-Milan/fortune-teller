@@ -97,7 +97,7 @@ public class FortuneTellerApp {
 		String transport = "x";
 		switch(userColor.toLowerCase()){
 			case "red":
-				transport = "red Ford Leaf";
+				transport = "red Nissan Leaf";
 				break;
 			case "orange":
 				transport = "burnt orange Vespa";
